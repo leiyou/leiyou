@@ -1,0 +1,3 @@
+- hexo deploy 发布到github page
+- hexo generate 生成静态文档
+- hexo server 启动服务器

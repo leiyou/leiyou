@@ -1,0 +1,26 @@
+1.sudo passwd root //设置root密码
+2.su //切换用户
+3.sudo cat /sys/kernel/debug/vgaswitcheroo/switch //查看显卡使用情况
+4.sudo apt-get install flashplugin-installer //安装flash player
+5.df -t 查看文件系统类型
+6.free -a 查看内存使用情况
+7.uname -r 查看内核版本
+8.date 输出时间
+9.cal [month] [year] 查看日历	
+10.echo 输出（既是外部命令也是shell命令）
+11.printf 输出
+12.passwd 修改密码
+13.who 显示用户标识符
+14.man 在线查询命令信息（类似what is）
+15.pwd 显示当前目录
+16.bc 计算器
+17.ls > list 将信息重定向到list文件
+18.wc 输出内容的行、字符、单词个数
+19.mail 发送邮件
+20.mount -o loop iso文件 存放目录	 //解压iso文件
+
+22.将可执行程序添加到命令行，如安装ｆｉｉｒｅｆｏｘ后，想直接通过终端打开firefox, 则可通过该
+命令创建一个从终端运行程序的链接，　sudo ln -s /usr/local/firefox/firefox /usr/bin/firefox
+
+
+
